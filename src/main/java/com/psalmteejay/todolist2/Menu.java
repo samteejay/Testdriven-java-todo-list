@@ -19,8 +19,8 @@ import java.util.Scanner;
 
 public class Menu {
 
-	//provide your ToDoList object
-	//declare your ToDoList topic
+	// provide your ToDoList object
+	// declare your ToDoList topic
 
 	static List<ToDoList> topicTodoList = new ArrayList<ToDoList>();
 
